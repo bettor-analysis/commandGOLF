@@ -48,3 +48,8 @@ Whether it's introducing new features, fixing bugs, or improving the codebase, y
 #### **License** 
 
 commandGOLF is open-source software licensed under the MIT License.
+
+**Example Game Play**
+
+![image](https://github.com/bettor-analysis/commandGOLF/assets/96088779/7c25dd06-27cb-41e6-9fef-33fcd0058f0e)
+
